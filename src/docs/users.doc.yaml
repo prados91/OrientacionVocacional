@@ -1,0 +1,773 @@
+components:
+  schemas:
+    Register:
+      type: object
+      properties:
+        name:
+          type: string
+          description: Nombre del usuario
+        lastName:
+          type: string
+          description: Apellido del usuario
+        email:
+          type: string
+          description: Email registrado
+        password:
+          type: string
+          description: Contraseña guardada en la base de datos
+        role:
+          type: string
+          description: Rol de usuario
+        verified:
+          type: bool
+          description: Estado de verificación del usuario
+        verifiedCode:
+          type: string
+          description: Código de verificación de usuario
+        photo:
+          type: string
+          description: Fotografía del usuario registrado
+        createdAt:
+          type: date
+          description: Fecha de creación del usuario
+      example:
+        name: Augusto
+        email: augusto@coder.com
+        password: coder1234
+        photo: https://i.postimg.cc/wTgNFWhR/profile.png
+    Login:
+      type: object
+      properties:
+        email:
+          type: string
+          description: Email registrado
+        password:
+          type: string
+          description: Contraseña guardada en la base de datos
+      example:
+        email: augusto@coder.com
+        password: coder1234
+  securitySchemes:
+    cookieAuth:
+      type: apiKey
+      in: cookie
+      name: token
+  responses:
+    uRegister:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        response:
+          type: string
+          description: Descripción de la solicitud
+      example:
+        statusCode: 201
+        message: Registered!
+    uLogin:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        message:
+          type: string
+          description: Descripcion de la operación realizada
+      example:
+        statusCode: 200
+        message: Logged in!
+    uVerified:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        response:
+          type: string
+          description: Descripción de la solicitud
+      example:
+        statusCode: 200
+        message: Verified user!
+    uSignout:
+      type: object
+      properties:
+        statusCode:
+          type: string
+          description: Estado de la solicitud
+        message:
+          type: string
+          description: Descripcion de la operación realizada
+      example:
+        statusCode: success
+        message: Signed out!
+    uAuth:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        path:
+          type: string
+          description: Descripción del endpoint del error
+        message:
+          type: string
+          description: Descripción del error
+      example:
+        statusCode: 401
+        path: POST /api/sessions/uLogin
+        message: Invalid/Missing credentials/token
+    uFatal:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        path:
+          type: string
+          description: Descripción del endpoint del error
+        message:
+          type: string
+          description: Descripción del error
+      example:
+        statusCode: 500
+        path: POST /api/sessions/
+        message: Cannot destructure property 'email' of 'req.user' as it is undefined.
+    uFailRegister:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        path:
+          type: string
+          description: Descripción del endpoint del error
+        message:
+          type: string
+          description: Descripción del error
+      example:
+        statusCode: 500
+        path: POST /api/sessions/uRegister
+        message: Users validation failed. name Path `name` is required.
+    uMe:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        response:
+          type: string
+          description: Datos del usuario
+      example:
+        statusCode: 200
+        response:
+          - email: augusto@coder.com
+            role: ADMIN
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+            name: Augusto
+            _id: 663d59bd594b0ad0f07cad50
+    uNotFound:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Código de estado de la respuesta
+        message:
+          type: string
+          description: Mensaje de error
+      example:
+        statusCode: 404
+        message: Not found
+    uRecovery:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Código de estado de la respuesta
+        message:
+          type: string
+          description: Mensaje de exito
+      example:
+        statusCode: 200
+        message: Email sent!
+    uUserRead:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        response:
+          type: object
+          description: Documentos de la solicitud
+      example:
+        statusCode: 200
+        response:
+          - _id: b57c3250b6775dd772906b29
+            name: Admin
+            email: administrator@coder.com
+            password: some hashed password
+            role: ADMIN
+            verified: true
+            verifiedCode: some verified code
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+          - _id: 662bdb0dc2be45fa31d199f2
+            name: Premium
+            email: premium@coder.com
+            password: some hashed password
+            role: PREM
+            verified: true
+            verifiedCode: some verified code
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+          - _id: 663d794bc09b03909f0eae55
+            name: User
+            email: normaluser@coder.com
+            password: some hashed password
+            role: USER
+            verified: true
+            verifiedCode: some verified code
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+    uUserUpdate:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Código de estado de la respuesta
+        response:
+          type: object
+          description: Objeto del documento modificado
+      example:
+        statusCode: 200
+        response:
+          - email: augusto@coder.com
+            role: ADMIN
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+            name: Augusto
+            _id: 663d59bd594b0ad0f07cad50
+    uForbidden:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        path:
+          type: string
+          description: Descripción del endpoint del error
+        message:
+          type: string
+          description: Descripción del error
+      example:
+        statusCode: 403
+        message: Forbiden
+    uRoleUpdate:
+      type: object
+      properties:
+        statusCode:
+          type: integer
+          description: Estado de la solicitud
+        response:
+          type: string
+          description: Datos del usuario
+      example:
+        statusCode: 200
+        response:
+          - email: augusto@coder.com
+            role: PREM
+            photo: https://i.postimg.cc/wTgNFWhR/profile.png
+            name: Augusto
+            _id: 663d59bd594b0ad0f07cad50
+paths:
+  /api/sessions/register:
+    post:
+      summary: Registrar un usuario
+      tags:
+        - Sessions
+      requestBody:
+        required: true
+        description: Objeto con las propiedades mínimas para registrar un usuario
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Register'
+      responses:
+        '200':
+          description: El éxito retorna el id del usuario registrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uRegister'
+        '500':
+          description: Campos faltantes
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFailRegister'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+  /api/sessions/login:
+    post:
+      summary: Iniciar sesión
+      tags:
+        - Sessions
+      requestBody:
+        required: true
+        description: objeto con las propiedades necesarias/mínimas para iniciar sesión
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Login'
+      responses:
+        '200':
+          description: El éxito retorna una cookie 'token' para enviar en las peticiones que requieran autenticación
+          headers: 
+            Set-Cookie:
+              schema: 
+                type: string
+                example: token=yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiaWduYSBjb2RlciIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJpZ25hQGNvZGVyLmNvbSIsImlhdCI6MTY5ODg0MjkzNSwiZXhwIjoxNjk4ODQ2NTM1fQ.FfpFL2XuKTp0MW6F_M8dy5qbKqHtYsw4mDET2611ddI
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uLogin'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '500':
+          description: Servidor caído
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/sessions/signout:
+    post:
+      summary: Cerrar sesión
+      tags:
+        - Sessions
+      security:
+        - cookieAuth: []
+      responses:
+        '200':
+          description: Éxito en el cierre de sesión
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uSignout'
+        '401':
+          description: Usuario no autenticado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '500':
+          description: Error en el servidor
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/sessions/verify:
+    post:
+      summary: Verificar el registro
+      tags:
+        - Sessions
+      security:
+        - cookieAuth: []
+      responses:
+        '200':
+          description: Éxito en la verificación 
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uVerified'
+        '401':
+          description: Usuario no autenticado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '500':
+          description: Error en el servidor
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/sessions/me:
+    post:
+      summary: Datos del usuario que inició sesión
+      tags:
+        - Sessions
+      security:
+        - cookieAuth: []
+      responses:
+        '200':
+          description: Datos del usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uMe'
+        '401':
+          description: Usuario no autenticado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '500':
+          description: Error en el servidor
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/sessions/recovery:
+    post:
+      summary: Restaurar la contraseña
+      tags:
+        - Sessions
+      security:
+        - cookieAuth: []
+      responses:
+        '200':
+          description: Éxito en la recuperación 
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uRecovery'
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Error en el servidor
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/users:
+    post:
+      summary: Crear un usuario
+      tags:
+        - Users
+      requestBody:
+        required: true
+        description: Objeto con las propiedades mínimas para registrar un usuario
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Register'
+      responses:
+        '200':
+          description: El éxito retorna el id del usuario registrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uRegister'
+        '500':
+          description: Campos faltantes
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFailRegister'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+    get:
+      summary: Leer los usuarios de la base de datos
+      tags:
+        - Users
+      parameters:
+        - name: page
+          in: query
+          type: integer
+          description: Número de página a mostrar
+        - name: limit
+          in: query
+          type: integer
+          description: Número de documentos a mostrar por página
+        - name: email
+          in: query
+          type: string
+          description: Email del usuario a buscar
+      responses:
+        '200':
+          description: Éxito en la lectura
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uUserRead'
+        '404':
+          description: Documentos no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al leer los documentos
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/users/:uid:
+    get:
+      summary: Leer un usuario de la base de datos
+      tags:
+        - Users
+      parameters:
+        - name: uid
+          in: path
+          required: true
+          description: ObjectId del usuario a buscar
+          schema:
+            $type: string
+      responses:
+        '200':
+          description: Éxito en leer el usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uMe'
+        '404':
+          description: Documento no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al leer el documento
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+    put:
+      summary: Actualizar los datos de un usuario
+      tags:
+        - Users
+      security:
+        - cookieAuth: []
+      parameters:
+        - name: uid
+          in: path
+          required: true
+          description: ObjectId del usuario a modificar
+          schema:
+            $type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#components/schemas/Register'
+      responses:
+        '200':
+          description: Éxito al actualizar el usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uUserUpdate'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '403':
+          description: Acceso no permitido
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uForbidden'
+        '404':
+          description: Documento/s no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al actualizar un producto
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+    delete:
+      summary: Eliminar un usuario de la base de datos
+      tags:
+        - Users
+      security:
+        - cookieAuth: []
+      parameters:
+        - name: uid
+          in: path
+          required: true
+          description: ObjectId del usuario a eliminar
+          schema:
+            $type: string
+      responses:
+        '200':
+          description: Éxito al eliminar un usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uUserUpdate'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '403':
+          description: Acceso no permitido
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uForbidden'
+        '404':
+          description: Documento no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al eliminar un usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/users/:email:
+    get:
+      summary: Buscar un usuario de la base de datos utilizando su email
+      tags:
+        - Users
+      parameters:
+        - name: email
+          in: path
+          required: true
+          description: Email del usuario a buscar
+          schema:
+            $type: string
+      responses:
+        '200':
+          description: Éxito en leer el usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uMe'
+        '404':
+          description: Documento no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al leer el documento
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/users/premium/:uid:
+    put:
+      summary: Cambiar el rol de un usuario tipo USER a PREM y viceversa
+      tags:
+        - Users
+      security:
+        - cookieAuth: []
+      parameters:
+        - name: uid
+          in: path
+          required: true
+          description: ObjectId del usuario a modificar
+          schema:
+            $type: string
+      responses:
+        '200':
+          description: Éxito al actualizar el usuario
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uRoleUpdate'
+        '401':
+          description: Credenciales invalidas
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uAuth'
+        '403':
+          description: Acceso no permitido
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uForbidden'
+        '404':
+          description: Documento no encontrados
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Falla del servidor al actualizar el rol
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+  /api/users/:token:
+    post:
+      summary: Verificación de restauración de contraseña
+      tags:
+        - Users
+      parameters:
+        - name: token
+          in: path
+          required: true
+          description: Token de verificación
+          schema:
+            $type: string
+      security:
+        - cookieAuth: []
+      responses:
+        '200':
+          description: Éxito en la recuperación 
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  statusCode:
+                    type: integer
+                  message:
+                    type: string
+              example:
+                statusCode: 200
+                message: Verified link!
+        '403':
+          description: Link expirado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  statusCode:
+                    type: integer
+                  message:
+                    type: string
+              example:
+                statusCode: 403
+                message: Link expired!
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uNotFound'
+        '500':
+          description: Error en el servidor
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/uFatal'
+

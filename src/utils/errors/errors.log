@@ -1,0 +1,1561 @@
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: 401
+[33mWARN[39m: undefined
+[33mWARN[39m: undefined
+[33mWARN[39m: 401
+[33mWARN[39m: undefined {"statusCode":401}
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: 401Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: POST /api/sessions/logi not found endpoint
+[33mWARN[39m: POST /api/sessions/logi not found endpoint
+[33mWARN[39m: POST /api/sessions/logi not found endpoint
+[33mWARN[39m: POST /api/sessions/login Invalid credentials
+[33mWARN[39m: POST /api/sessions/signout Invalid credentials
+[33mWARN[39m: POST /api/sessions/signout Invalid credentials
+[33mWARN[39m: GET /api/users/?email=augusto.atp.91@gmail.com Forbidden
+[33mWARN[39m: GET /api/users-- not found endpoint
+[33mWARN[39m: GET /api/users Forbidden
+[33mWARN[39m: POST /api/sessions/login Missing credentials
+[33mWARN[39m: POST /api/users data and salt arguments required
+[33mWARN[39m: POST /api/users data and salt arguments required
+[33mWARN[39m: POST /api/users data and salt arguments required
+[31mERROR[39m: data and salt arguments required
+[31mERROR[39m: data and salt arguments required
+[31mERROR[39m: data and salt arguments required
+[33mWARN[39m: POST /api/uses not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: fs is not defined
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: fs is not defined
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: ENOENT: no such file or directory, open 'C:\Users\SMO\Desktop\utils\errors\errors.log'
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: ENOENT: no such file or directory, open 'C:\Users\SMO\Desktop\src\utils\errors\errors.log'
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: ENOENT: no such file or directory, open 'C:\Users\SMO\Desktop\src\utils\errors\errors.log'
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: ENOENT: no such file or directory, open 'C:\Users\SMO\Desktop\src\utils\errors\errors.log'
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: Unexpected token '', "[31mERROR"... is not valid JSON
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: stringifyObject is not defined
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: winstonLog is not defined
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: ALGO ERROR
+[31mERROR[39m: winstonLog.FATAL is not a function
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[31mERROR[39m: log2 is not defined
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: Converting circular structure to JSON
+    --> starting at object with constructor 'DerivedLogger'
+    |     property '_readableState' -> object with constructor 'ReadableState'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Console'
+    --- property 'parent' closes the circle
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: Converting circular structure to JSON
+    --> starting at object with constructor 'DerivedLogger'
+    |     property '_readableState' -> object with constructor 'ReadableState'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Console'
+    --- property 'parent' closes the circle
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: Converting circular structure to JSON
+    --> starting at object with constructor 'DerivedLogger'
+    |     property '_readableState' -> object with constructor 'ReadableState'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Console'
+    --- property 'parent' closes the circle
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[31mERROR[39m: Converting circular structure to JSON
+    --> starting at object with constructor 'DerivedLogger'
+    |     property '_readableState' -> object with constructor 'ReadableState'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Console'
+    --- property 'parent' closes the circle
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[31mERROR[39m: Converting circular structure to JSON
+    --> starting at object with constructor 'DerivedLogger'
+    |     property '_readableState' -> object with constructor 'ReadableState'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Console'
+    --- property 'parent' closes the circle
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: LOG WARN
+[31mERROR[39m: LOG ERROR
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading 'owner_id')
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: PUT /api/products/66292d082c92ad622ebbd5c2 not found endpoint
+[33mWARN[39m: PUT /api/products/66292d082c92ad622ebbd5c2 not found endpoint
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: res.error402 is not a function
+[33mWARN[39m: Forbidden
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[31mERROR[39m: one is not defined
+[33mWARN[39m: POST /api/orders not found endpoint
+[33mWARN[39m: POST /api/orders not found endpoint
+[33mWARN[39m: POST /api/orders not found endpoint
+[33mWARN[39m: POST /api/orders/ not found endpoint
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Forbidden
+[33mWARN[39m: You cannot add your own product to your cart
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: PUT /api/users/ not found endpoint
+[33mWARN[39m: PUT /api/users/ not found endpoint
+[33mWARN[39m: PUT /api/users/ not found endpoint
+[33mWARN[39m: PUT /api/users/ not found endpoint
+[33mWARN[39m: PUT /api/users/ not found endpoint
+[33mWARN[39m: POST /api/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjYxYWQwNWY0NDMzOThjNjYxYTE5NzRiIiwiZW1haWwiOiJhdWd1c3RvLmF0cC45MUBnbWFpbC5jb20iLCJpYXQiOjE3MTQzMzQ5NDcsImV4cCI6MTcxNzkzNDk0N30.T3RwB5vn9Eqm6aIT_TCgh9okG-938ls5T07k8KMSRZo not found endpoint
+[33mWARN[39m: POST /api/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjYxYWQwNWY0NDMzOThjNjYxYTE5NzRiIiwiZW1haWwiOiJhdWd1c3RvLmF0cC45MUBnbWFpbC5jb20iLCJpYXQiOjE3MTQzMzQ5NDcsImV4cCI6MTcxNzkzNDk0N30.T3RwB5vn9Eqm6aIT_TCgh9okG-938ls5T07k8KMSRZo not found endpoint
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: bad auth
+[33mWARN[39m: bad auth
+[33mWARN[39m: bad auth
+[33mWARN[39m: bad auth
+[33mWARN[39m: You can't use the same password
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: jwt expired
+[31mERROR[39m: undefined {"connectionGeneration":0}
+[31mERROR[39m: undefined {"connectionGeneration":1}
+[31mERROR[39m: Operation `products.countDocuments()` buffering timed out after 10000ms
+[31mERROR[39m: Operation `products.countDocuments()` buffering timed out after 10000ms
+[31mERROR[39m: Operation `products.countDocuments()` buffering timed out after 10000ms
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: You can't use the same password
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[33mWARN[39m: No auth token
+[33mWARN[39m: GET /api/prod/65b6b7c47984a340a0c6441d not found endpoint
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[33mWARN[39m: GET /api/prod/65b6b7c47984a340a0c6441d not found endpoint
+[33mWARN[39m: GET /api/prod/65b6b7c47984a340a0c6441d not found endpoint
+[33mWARN[39m: Not Found
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: jwt must be provided
+[31mERROR[39m: Cast to ObjectId failed for value "66292d082c92ad622ebbd5c" (type string) at path "_id" for model "products"
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[33mWARN[39m: No auth token
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: No auth token
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: No auth token
+[33mWARN[39m: Not Found
+[33mWARN[39m: POST /api/uses not found endpoint
+[31mERROR[39m: Cast to ObjectId failed for value "augustoprados91@gmail.com" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot read properties of undefined (reading 'role')
+[33mWARN[39m: No auth token
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Expected ':' after property name in JSON at position 16 (line 2 column 14)
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: POST /api/sessions/logi not found endpoint
+[33mWARN[39m: Missing credentials
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: User already exists
+[31mERROR[39m: users validation failed: name: Path `name` is required.
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Missing credentials
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: Invalid verified token!
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: Invalid verified token!
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: Missing credentials
+[33mWARN[39m: POST /api/sessions/m not found endpoint
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: POST /api/sessions/recover not found endpoint
+[33mWARN[39m: POST /api/sessions/recover not found endpoint
+[33mWARN[39m: Invalid verified token!
+[33mWARN[39m: GET /apiusers not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: Not Found
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[31mERROR[39m: users validation failed: role: `admin` is not a valid enum value for path `role`.
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: users validation failed: role: `admin` is not a valid enum value for path `role`.
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: User already exists
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: GET /api/user/augusto@coder.com not found endpoint
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "augusto@coder.com" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: No auth token
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[33mWARN[39m: POST /api/sessions/ not found endpoint
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[31mERROR[39m: data must be a string or Buffer and hash must be a string
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: GET /api/user/b57c3250b6775dd772906b29 not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: Forbidden
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[33mWARN[39m: Forbidden
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'email' of 'req.user' as it is undefined.
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: No auth token
+[33mWARN[39m: No auth token
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: GET /api/sessions/me not found endpoint
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: orders validation failed: user_id: Path `user_id` is required.
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: No auth token
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cast to ObjectId failed for value "me" (type string) at path "_id" for model "products"
+[31mERROR[39m: Cast to ObjectId failed for value "me" (type string) at path "_id" for model "products"
+[31mERROR[39m: Cast to ObjectId failed for value "me" (type string) at path "_id" for model "products"
+[31mERROR[39m: Cast to ObjectId failed for value "me" (type string) at path "_id" for model "products"
+[31mERROR[39m: users validation failed: lastName: Path `lastName` is required.
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: users validation failed: lastName: Path `lastName` is required.
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: Not Found
+[33mWARN[39m: No auth token
+[31mERROR[39m: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+[31mERROR[39m: oid is not defined
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Invalid credentials
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: Not Found
+[33mWARN[39m: GET /styles.css not found endpoint
+[33mWARN[39m: GET /scripts/signout.js not found endpoint
+[33mWARN[39m: GET /logoBasketStore.png not found endpoint
+[33mWARN[39m: GET /scripts/index.js not found endpoint
+[33mWARN[39m: GET /logoWeb.png not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /public/cover.css not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /public/cover.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/js/color-modes.js not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /assets/dist/css/bootstrap.min.css not found endpoint
+[33mWARN[39m: GET /assets/dist/js/bootstrap.bundle.min.js not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint
+[33mWARN[39m: GET /favicon.ico not found endpoint

@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "b57c3250b6775dd772906b29",
+      "name": "AugustoADMIN",
+      "email": "aprados91@hotmail.com",
+      "password": "$2b$10$iyiFFf5BHB3VcvE9ibI/POf1FmLMS1bJOjYZCLnFEid5bvkEizQzm",
+      "role": "ADMIN",
+      "verified": true,
+      "verifiedCode": "MCMqbp9RgfNaeAhE",
+      "photo": "https://i.postimg.cc/FKSwpy84/Admin-Sign-on-Laptop-Icon-Vector-Stock-Vector-Illustration-of-pictogram-manager-166205404.jpg",
+      "createdAt": "2024-03-26 00:17:34",
+      "updatedAt": "2024-03-26 00:49:07",
+      "__v": 0
+    },
+    {
+      "_id": "662bdb0dc2be45fa31d199f2",
+      "name": "Augusto",
+      "email": "augustoprados91@gmail.com",
+      "password": "$2b$10$s3UIbI50RPq2Lq5LqYiDMu0Ic.C8yiF1GGC/wlPovMwDRdhn7UzhS",
+      "role": "USER",
+      "verified": true,
+      "verifiedCode": "mSguwJ/N+s4atXhZ",
+      "photo": "https://i.postimg.cc/wTgNFWhR/profile.png",
+      "createdAt": "2024-04-26 16:49:17",
+      "updatedAt": "2024-05-29 00:39:53",
+      "__v": 0,
+      "lastName": "Prados"
+    },
+    {
+      "_id": "665f9dea3bd7a3a09bbe1778",
+      "name": "AugustoPrem",
+      "lastName": "Prados",
+      "email": "augusto.atp.91@gmail.com",
+      "password": "$2b$10$sLE9GcWDolh5zY0cExZ43Ok/Yu5BghGn00td54q24tWpu5zpqGVFm",
+      "role": "PREM",
+      "verified": true,
+      "verifiedCode": "8+Zd253NgkwYdTA9",
+      "photo": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdAt": "2024-06-04 23:06:18",
+      "updatedAt": "2024-06-04 23:16:22",
+      "__v": 0
+    }
+  ]
+  
